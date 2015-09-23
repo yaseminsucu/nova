@@ -1,4 +1,4 @@
 # nova
 w
 
-I love :coffee:, :music:, :art: and :rain:.
+I love :coffee:, :song:, :art: and :rain:.
