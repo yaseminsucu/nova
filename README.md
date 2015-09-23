@@ -1,4 +1,4 @@
 # nova
 w
 
-I love :coffee:, :travel: and :art:.
+I love :coffee:, :dog: and :art:.
